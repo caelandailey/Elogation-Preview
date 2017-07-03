@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="img-lp-qIP">
             <objects>
-                <tableViewController id="dtj-Nh-DYz" customClass="ViewController" customModule="ElongationPreviewDemo" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="dtj-Nh-DYz" customClass="ViewController" customModule="ElogationPreview" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="LBu-zQ-LbK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -31,7 +31,7 @@
         <!--Detail View Controller-->
         <scene sceneID="aqh-MW-wrw">
             <objects>
-                <tableViewController storyboardIdentifier="DetailViewController" id="Oow-qy-VQL" customClass="DetailViewController" customModule="ElongationPreviewDemo" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController storyboardIdentifier="DetailViewController" id="Oow-qy-VQL" customClass="DetailViewController" customModule="ElogationPreview" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="1" sectionFooterHeight="1" id="doz-Y3-m4P">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

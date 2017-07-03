@@ -14,13 +14,9 @@
 		38D379D51F09CE95006FCC6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38D379D31F09CE95006FCC6E /* LaunchScreen.storyboard */; };
 		38D379DC1F09D778006FCC6E /* Pods_ElogationPreview.framework in Resources */ = {isa = PBXBuildFile; fileRef = 54A2CFD57C1091F0B6FCC6E3 /* Pods_ElogationPreview.framework */; };
 		38D379DD1F09D781006FCC6E /* Pods_ElogationPreview.framework in Sources */ = {isa = PBXBuildFile; fileRef = 54A2CFD57C1091F0B6FCC6E3 /* Pods_ElogationPreview.framework */; };
-		38D379E11F09D8B1006FCC6E /* DemoElongationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D379DF1F09D8B1006FCC6E /* DemoElongationCell.swift */; };
-		38D379E21F09D8B1006FCC6E /* DemoElongationCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38D379E01F09D8B1006FCC6E /* DemoElongationCell.xib */; };
 		38D379E41F09D920006FCC6E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D379E31F09D920006FCC6E /* DetailViewController.swift */; };
 		38D379E71F09D9EB006FCC6E /* Villa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D379E61F09D9EB006FCC6E /* Villa.swift */; };
 		38D379EA1F09DA7D006FCC6E /* LoremSwiftum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D379E91F09DA7D006FCC6E /* LoremSwiftum.swift */; };
-		38D379EF1F09DB49006FCC6E /* GridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D379ED1F09DB49006FCC6E /* GridViewCell.swift */; };
-		38D379F01F09DB49006FCC6E /* GridViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38D379EE1F09DB49006FCC6E /* GridViewCell.xib */; };
 		38D379F21F09DFA6006FCC6E /* Ultra Miami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F11F09DFA6006FCC6E /* Ultra Miami.jpg */; };
 		38D379F41F09DFF3006FCC6E /* Electric Zoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F31F09DFF3006FCC6E /* Electric Zoo.jpg */; };
 		38D379FA1F09E001006FCC6E /* Coachella.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F51F09E000006FCC6E /* Coachella.jpg */; };
@@ -28,6 +24,10 @@
 		38D379FC1F09E001006FCC6E /* Bonnaroo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F71F09E001006FCC6E /* Bonnaroo.jpg */; };
 		38D379FD1F09E001006FCC6E /* Lollapalooza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F81F09E001006FCC6E /* Lollapalooza.jpg */; };
 		38D379FE1F09E001006FCC6E /* EDC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 38D379F91F09E001006FCC6E /* EDC.jpg */; };
+		38D37A081F09EC47006FCC6E /* DemoElongationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D37A061F09EC47006FCC6E /* DemoElongationCell.swift */; };
+		38D37A091F09EC47006FCC6E /* DemoElongationCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38D37A071F09EC47006FCC6E /* DemoElongationCell.xib */; };
+		38D37A0C1F09ED1C006FCC6E /* GridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D37A0A1F09ED1C006FCC6E /* GridViewCell.swift */; };
+		38D37A0D1F09ED1C006FCC6E /* GridViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38D37A0B1F09ED1C006FCC6E /* GridViewCell.xib */; };
 		6795C8B6CD38C90877E21249 /* Pods_ElogationPreview.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54A2CFD57C1091F0B6FCC6E3 /* Pods_ElogationPreview.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,13 +40,9 @@
 		38D379D11F09CE95006FCC6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38D379D41F09CE95006FCC6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38D379D61F09CE95006FCC6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		38D379DF1F09D8B1006FCC6E /* DemoElongationCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DemoElongationCell.swift; path = DemoElongationCell/DemoElongationCell.swift; sourceTree = "<group>"; };
-		38D379E01F09D8B1006FCC6E /* DemoElongationCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DemoElongationCell.xib; path = DemoElongationCell/DemoElongationCell.xib; sourceTree = "<group>"; };
 		38D379E31F09D920006FCC6E /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		38D379E61F09D9EB006FCC6E /* Villa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Villa.swift; sourceTree = "<group>"; };
 		38D379E91F09DA7D006FCC6E /* LoremSwiftum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoremSwiftum.swift; sourceTree = "<group>"; };
-		38D379ED1F09DB49006FCC6E /* GridViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridViewCell.swift; sourceTree = "<group>"; };
-		38D379EE1F09DB49006FCC6E /* GridViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GridViewCell.xib; sourceTree = "<group>"; };
 		38D379F11F09DFA6006FCC6E /* Ultra Miami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ultra Miami.jpg"; sourceTree = "<group>"; };
 		38D379F31F09DFF3006FCC6E /* Electric Zoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Electric Zoo.jpg"; sourceTree = "<group>"; };
 		38D379F51F09E000006FCC6E /* Coachella.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coachella.jpg; sourceTree = "<group>"; };
@@ -54,6 +50,10 @@
 		38D379F71F09E001006FCC6E /* Bonnaroo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bonnaroo.jpg; sourceTree = "<group>"; };
 		38D379F81F09E001006FCC6E /* Lollapalooza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lollapalooza.jpg; sourceTree = "<group>"; };
 		38D379F91F09E001006FCC6E /* EDC.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = EDC.jpg; sourceTree = "<group>"; };
+		38D37A061F09EC47006FCC6E /* DemoElongationCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoElongationCell.swift; sourceTree = "<group>"; };
+		38D37A071F09EC47006FCC6E /* DemoElongationCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DemoElongationCell.xib; sourceTree = "<group>"; };
+		38D37A0A1F09ED1C006FCC6E /* GridViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridViewCell.swift; sourceTree = "<group>"; };
+		38D37A0B1F09ED1C006FCC6E /* GridViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GridViewCell.xib; sourceTree = "<group>"; };
 		506D066626D57CD862FDFE1A /* Pods-ElogationPreview.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ElogationPreview.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ElogationPreview/Pods-ElogationPreview.debug.xcconfig"; sourceTree = "<group>"; };
 		54A2CFD57C1091F0B6FCC6E3 /* Pods_ElogationPreview.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ElogationPreview.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -109,10 +109,8 @@
 		38D379DE1F09D7FF006FCC6E /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				38D379ED1F09DB49006FCC6E /* GridViewCell.swift */,
-				38D379EE1F09DB49006FCC6E /* GridViewCell.xib */,
-				38D379DF1F09D8B1006FCC6E /* DemoElongationCell.swift */,
-				38D379E01F09D8B1006FCC6E /* DemoElongationCell.xib */,
+				38D37A051F09EC2D006FCC6E /* DemoElongationCell */,
+				38D37A021F09EBDD006FCC6E /* GridViewCell */,
 			);
 			name = Views;
 			path = ../Views;
@@ -146,7 +144,27 @@
 				38D379F81F09E001006FCC6E /* Lollapalooza.jpg */,
 				38D379F91F09E001006FCC6E /* EDC.jpg */,
 			);
-			name = Images;
+			path = Images;
+			sourceTree = "<group>";
+		};
+		38D37A021F09EBDD006FCC6E /* GridViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				38D37A0A1F09ED1C006FCC6E /* GridViewCell.swift */,
+				38D37A0B1F09ED1C006FCC6E /* GridViewCell.xib */,
+			);
+			name = GridViewCell;
+			path = ../ElogationPreview/Views/GridViewCell;
+			sourceTree = "<group>";
+		};
+		38D37A051F09EC2D006FCC6E /* DemoElongationCell */ = {
+			isa = PBXGroup;
+			children = (
+				38D37A061F09EC47006FCC6E /* DemoElongationCell.swift */,
+				38D37A071F09EC47006FCC6E /* DemoElongationCell.xib */,
+			);
+			name = DemoElongationCell;
+			path = ../ElogationPreview/Views/DemoElongationCell;
 			sourceTree = "<group>";
 		};
 		C20D219D07F610964ADBA40C /* Pods */ = {
@@ -237,11 +255,11 @@
 				38D379F41F09DFF3006FCC6E /* Electric Zoo.jpg in Resources */,
 				38D379D51F09CE95006FCC6E /* LaunchScreen.storyboard in Resources */,
 				38D379FA1F09E001006FCC6E /* Coachella.jpg in Resources */,
+				38D37A091F09EC47006FCC6E /* DemoElongationCell.xib in Resources */,
 				38D379D21F09CE95006FCC6E /* Assets.xcassets in Resources */,
 				38D379D01F09CE95006FCC6E /* Main.storyboard in Resources */,
-				38D379E21F09D8B1006FCC6E /* DemoElongationCell.xib in Resources */,
-				38D379F01F09DB49006FCC6E /* GridViewCell.xib in Resources */,
 				38D379FC1F09E001006FCC6E /* Bonnaroo.jpg in Resources */,
+				38D37A0D1F09ED1C006FCC6E /* GridViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,13 +318,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38D37A081F09EC47006FCC6E /* DemoElongationCell.swift in Sources */,
 				38D379E71F09D9EB006FCC6E /* Villa.swift in Sources */,
 				38D379EA1F09DA7D006FCC6E /* LoremSwiftum.swift in Sources */,
-				38D379E11F09D8B1006FCC6E /* DemoElongationCell.swift in Sources */,
 				38D379DD1F09D781006FCC6E /* Pods_ElogationPreview.framework in Sources */,
 				38D379E41F09D920006FCC6E /* DetailViewController.swift in Sources */,
 				38D379CD1F09CE95006FCC6E /* ViewController.swift in Sources */,
-				38D379EF1F09DB49006FCC6E /* GridViewCell.swift in Sources */,
+				38D37A0C1F09ED1C006FCC6E /* GridViewCell.swift in Sources */,
 				38D379CB1F09CE95006FCC6E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
