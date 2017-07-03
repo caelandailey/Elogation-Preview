@@ -1,5 +1,7 @@
 # [Elogation Preview](https://github.com/Ramotion/elongation-preview)
 
+<img src="https://github.com/caelandailey/Elogation-Preview/blob/master/elogationGif.gif" width="375px" height="667px" />
+
 #### What for?
 My person project [Frender](https://github.com/caelandailey/FrenderApp) needs an elegant way to view multiple events. 
 Elogation preview provides an easy way to look through different events and provide details with a smooth transition. 
